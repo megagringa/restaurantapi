@@ -1,9 +1,9 @@
 # #restaurantapi
 
-### [Administrador de citas para pacientes](https://megagringa.github.io/restaurantapi/index.html)
+### [Consulta a Restaurante](https://megagringa.github.io/restaurantapi/index.html)
 
-Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
-         Solo se implementa js. 
+Proyecto que consulta los precios de un restaurante - El proyecto viene con una estructura armada en html y css - 
+         Solo se implementa js para desarrollar y aprender. 
 
 
 ## Lenguajes y tecnologías.
@@ -12,9 +12,3 @@ Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en
 - CSS3
 - Framework: Bootstrap
 - JS(Javascript)
-
-- **Udemy**:
-    - Proyecto de práctica para mejorar skills.
-    
-- **Proyecto**:
-    - Calculadora de un restaurante.
